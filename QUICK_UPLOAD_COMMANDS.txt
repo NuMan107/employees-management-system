@@ -1,0 +1,27 @@
+=========================================
+🚀 QUICK GITHUB UPLOAD COMMANDS
+=========================================
+
+After creating repository on GitHub, run these 3 commands:
+
+git remote add origin https://github.com/YOURUSERNAME/employees-management-system.git
+git branch -M main
+git push -u origin main
+
+IMPORTANT: Replace YOURUSERNAME with your GitHub username!
+
+=========================================
+✅ Already Done:
+- Git initialized
+- Files committed
+- db.php protected
+- README.md created
+- .gitignore setup
+
+📋 What YOU Need to Do:
+1. Create repository on GitHub.com
+2. Run the 3 commands above
+3. Done! 🎉
+
+=========================================
+
