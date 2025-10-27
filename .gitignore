@@ -1,0 +1,39 @@
+# Database Configuration (Don't upload real credentials!)
+# Keep db.php out of git if it has real passwords
+
+# XAMPP specific
+/xampp/
+htdocs/
+
+# Sensitive files
+db.php
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.backup
+*.old
+
+# PHP session files
+*.session
+*.sess
+
+# Optional: Don't track these demo/educational files if you don't want them
+# vulnerable_demo.php
+# setup_users.php (or keep it, useful for others)
+
